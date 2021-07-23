@@ -1,6 +1,6 @@
 package com.github.vlmr.dev.cities.states.entities;
 
-import com.github.vlmr.dev.cities.states.entities.Country;
+import com.github.vlmr.dev.cities.countries.entities.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import java.util.List;
 import javax.persistence.Basic;
