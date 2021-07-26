@@ -7,3 +7,7 @@
 * Git
 * IntelliJ Community
 * Heroku
+
+## Deploy no Heroku
+
+https://citiesapi-vlmr-live.herokuapp.com/countries/1
